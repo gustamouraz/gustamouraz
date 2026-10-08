@@ -1,10 +1,10 @@
 # Hi, I'm Luiz Moura 👋
 
-I'm a Computer Engineering student from Brazil, interested in building practical and well-crafted technology solutions.
+I'm a Computer Engineering from Brazil, interested in building practical and well-crafted technology solutions.
 
 ## About me
 
-- 🎓 Studying Computer Engineering
+- 🎓 Graduated Computer Engineering
 - 🇧🇷 Based in Brazil
 - 💻 Building web applications, internal tools, and automation projects
 - 📊 Interested in data visualization and technology that improves everyday work
